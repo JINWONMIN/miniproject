@@ -1,12 +1,14 @@
 ## miniproject
-<br>
 * 실습 프로젝트 종류
   * EDA
   * Classification, Regression
   * CV
   * NLP
-<br>
-* * *
+* * * 
+- **Exploration**을 진행하면서 각각의 실습 목표 및 평가 기준을 정해두고 실습을 진행.
+- 실습 목표 및 평가 기준, 회고를 개별적으로 실습 폴더 **md파일에 기재**하였습니다.
+
+
 
 * * *
 |**No**|**Subject**|**Code**|
