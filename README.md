@@ -18,5 +18,7 @@
 |ex.03|카메라 스티커 앱 만들기(cv2)|[Click](https://github.com/JINWONMIN/miniproject/tree/master/cv2)|
 |ex.04|작사가 인공지능 만들기|[Click](https://github.com/JINWONMIN/miniproject/tree/master/ex04)|
 |ex.05|첫 번째 캐글 경진대회|[Click](https://github.com/JINWONMIN/miniproject/tree/master/ex05)|
-|ex.06|영화리뷰 텍스트 감성분석하기|[Click](https://github.com/JINWONMIN/miniproject/tree/master/ex06)
+|ex.06|영화리뷰 텍스트 감성분석하기|[Click](https://github.com/JINWONMIN/miniproject/tree/master/ex06)|
+|ex.07|.|.|
+|ex.08|.|.|
 
