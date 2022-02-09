@@ -24,6 +24,6 @@
 |ex.06|영화리뷰 텍스트 감성분석하기|[Click](https://github.com/JINWONMIN/miniproject/tree/master/ex06)|
 |ex.07|.|.|
 |ex.08|.|.|
-|ex.09|.|[Click](https://github.com/JINWONMIN/miniproject/tree/master/ex09)|
+|ex.09|Chest X-Ray Images (Pnenumonia Diagnosis|[Click](https://github.com/JINWONMIN/miniproject/tree/master/ex09)|
 
 </div>
