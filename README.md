@@ -26,5 +26,6 @@
 |ex.08|.|.|
 |ex.09|Chest X-Ray Images (Pnenumonia Diagnosis|[Click](https://github.com/JINWONMIN/miniproject/tree/master/ex09)|
 |ex.10|Generate CIFAR-10 Image|[Click](https://github.com/JINWONMIN/miniproject/tree/master/ex10)|
+|ex.11||[Click](https://github.com/JINWONMIN/miniproject/tree/master/ex11)|
 
 </div>
