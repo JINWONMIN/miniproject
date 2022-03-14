@@ -1,4 +1,4 @@
-## Ex.06 다음에 볼 영화 예측하기(Session Based Recommendation)
+## Ex.16 다음에 볼 영화 예측하기(Session Based Recommendation)
 * * *
 * **실습 목표**
   * 사용할 모델은 2016년 ICLR에 공개된 [SESSION-BASED RECOMMENDATIONS WITH RECURRENT NEURAL NETWORKS](https://arxiv.org/pdf/1511.06939v4.pdf)
