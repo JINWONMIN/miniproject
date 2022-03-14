@@ -28,4 +28,5 @@
 |ex.12|Korean Cahtbot Making(with Transfomer)|[Click](https://github.com/JINWONMIN/miniproject/tree/master/ex12)|
 |ex.13|퀴즈 푸는 인공지능 만들기(BERT)|[Click](https://github.com/JINWONMIN/miniproject/tree/master/ex13)|
 |ex.15|OCR|[Click](https://github.com/JINWONMIN/miniproject/tree/master/ex15)|
+|ex.16|Session Based Recommendation|[Click](https://github.com/JINWONMIN/miniproject/tree/master/ex16)|
 </div>
